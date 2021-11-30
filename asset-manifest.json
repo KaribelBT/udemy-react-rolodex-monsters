@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-react-rolodex-monsters/static/css/main.af1650ba.chunk.css",
+    "main.js": "/udemy-react-rolodex-monsters/static/js/main.63a3eec1.chunk.js",
+    "main.js.map": "/udemy-react-rolodex-monsters/static/js/main.63a3eec1.chunk.js.map",
+    "runtime-main.js": "/udemy-react-rolodex-monsters/static/js/runtime-main.5d5593c5.js",
+    "runtime-main.js.map": "/udemy-react-rolodex-monsters/static/js/runtime-main.5d5593c5.js.map",
+    "static/js/2.d3d7b11c.chunk.js": "/udemy-react-rolodex-monsters/static/js/2.d3d7b11c.chunk.js",
+    "static/js/2.d3d7b11c.chunk.js.map": "/udemy-react-rolodex-monsters/static/js/2.d3d7b11c.chunk.js.map",
+    "static/js/3.290e3770.chunk.js": "/udemy-react-rolodex-monsters/static/js/3.290e3770.chunk.js",
+    "static/js/3.290e3770.chunk.js.map": "/udemy-react-rolodex-monsters/static/js/3.290e3770.chunk.js.map",
+    "index.html": "/udemy-react-rolodex-monsters/index.html",
+    "static/css/main.af1650ba.chunk.css.map": "/udemy-react-rolodex-monsters/static/css/main.af1650ba.chunk.css.map",
+    "static/js/2.d3d7b11c.chunk.js.LICENSE.txt": "/udemy-react-rolodex-monsters/static/js/2.d3d7b11c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d5593c5.js",
+    "static/js/2.d3d7b11c.chunk.js",
+    "static/css/main.af1650ba.chunk.css",
+    "static/js/main.63a3eec1.chunk.js"
+  ]
+}
